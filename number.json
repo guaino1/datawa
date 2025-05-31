@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "USERNAME": "ino",
+    "PASSWORD": "123",
+    "ACCESS": true,
+    "OWNER": "ino",
+    "BANNED": false
+  },
+  {
+    "USERNAME": "admin",
+    "MAINTENANCE": true
+  }
+]
