@@ -1,13 +1,9 @@
 [
   {
-    "USERNAME": "ino",
-    "PASSWORD": "123",
-    "ACCESS": true,
-    "OWNER": "ino",
-    "BANNED": false
-  },
-  {
     "USERNAME": "admin",
-    "MAINTENANCE": true
+    "PASSWORD": "1234",
+    "OWNER": "Admin",
+    "ACCESS": true,
+    "BANNED": false
   }
 ]
