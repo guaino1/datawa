@@ -1,9 +1,9 @@
-[
-  {
-    "USERNAME": "admin",
-    "PASSWORD": "1234",
-    "OWNER": "Admin",
-    "ACCESS": true,
-    "BANNED": false
-  }
-]
+{
+  "secretcode": "inoxyz", 
+  "description": "PREMIUM KEY", 
+  "last update": "2025-05-30", 
+  "author": "know", 
+  "status": "Active", 
+  "license": "MIT"
+  "Version": "4.0.0":
+{
