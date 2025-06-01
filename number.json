@@ -1,9 +1,13 @@
 {
-  "secretcode": "inoxyz", 
-  "description": "PREMIUM KEY", 
-  "last update": "2025-05-30", 
-  "author": "know", 
-  "status": "Active", 
-  "license": "MIT", 
-  "Version": "4.0.0":
-{
+  "secretCode": "inoxyz",
+  "description": "PREMIUM KEY",
+  "lastUpdated": "2025-05-30",
+  "author": "know",
+  "status": "Active",
+  "license": "MIT",
+  "version": "4.0.0",
+  "extra": {
+    "whatsapp": "6281228524770",
+    "support": "https://t.me/inoxyz"
+  }
+}
