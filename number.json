@@ -1,4 +1,7 @@
-{[
- "nama-db": "datawa",
- "nama-db": "number.json"
-]}
+{
+  "data": [
+    "no",
+    "no",
+    "no"
+  ]
+}
